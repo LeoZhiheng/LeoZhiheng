@@ -1,7 +1,7 @@
 ### Hi 👋 I am Zhiheng Li
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LeoZhiheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 
-🤔 Focus on Robotics Perception and Deep Learning  
+🤔 Focus on Robot and Deep Learning  
 <br/>
 😄 Like robots and programming  
 <br/>
