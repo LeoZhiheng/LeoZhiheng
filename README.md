@@ -3,10 +3,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LeoZhiheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 
 ---
-🌱 I am MS Student at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)        
-🤔 Focus on Robot and Deep Learning  
-😄 Like robots and programming  
-✨ I’m currently learning everything  
+🌱I am MS Student at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)        
+🤔Focus on Robot and Deep Learning  
+😄Like robots and programming  
+✨I’m currently learning everything  
 
 <!--
 **LeoZhiheng/LeoZhiheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
