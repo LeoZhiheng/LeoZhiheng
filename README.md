@@ -4,7 +4,7 @@
 
 ---
 🌱 I am MS Student at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)        
-🤔 Focus on Robot and Deep Learning  
+🤔 Focus on Robot and Deep Learning. Still exploring...    
 😄 Like robots and programming  
 ✨ I’m currently learning everything  
 
