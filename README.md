@@ -8,6 +8,10 @@
 😄 Like robots and programming  
 ✨ I’m currently learning everything  
 
+Representative work:
+
+*Zhiheng Li*, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2023. 
+
 <!--
 **LeoZhiheng/LeoZhiheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
