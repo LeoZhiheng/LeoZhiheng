@@ -8,7 +8,7 @@
 😄 Like robots and programming  
 ✨ I’m currently learning everything  
 
-Representative works:
+**Representative works:**
 
 **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2023. 
 
@@ -16,7 +16,7 @@ Representative works:
 
 **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
 
-Other works:
+**Other works:**
 
 Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
 
