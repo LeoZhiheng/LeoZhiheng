@@ -8,13 +8,19 @@
 😄 Like robots and programming  
 ✨ I’m currently learning everything  
 
-Representative work:
+Representative works:
 
 **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2023. 
 
 **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023.
 
 **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
+
+Other works:
+
+Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
+
+Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. 
 
 <!--
 **LeoZhiheng/LeoZhiheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
