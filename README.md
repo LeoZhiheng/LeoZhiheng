@@ -17,6 +17,7 @@
 3. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
 
 **Other works:**
+
 5. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
 4. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
