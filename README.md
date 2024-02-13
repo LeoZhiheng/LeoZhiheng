@@ -20,9 +20,11 @@
 
 4. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
-5. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
+5. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024.
+   
+6. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
 
-6. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. 
+7. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. 
 
 😟 Due to being busy applying for PhD, the code will be delayed in opening. Thank you for your patience.
 
