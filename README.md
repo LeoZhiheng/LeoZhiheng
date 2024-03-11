@@ -26,6 +26,9 @@
 
 7. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. 
 
+**Video:**
+The video of the above work can be found on my [Bilibili](https://space.bilibili.com/362738095?spm_id_from=333.999.0.0).
+
 😟 **Due to being busy applying for PhD, the code will be delayed in opening. Thank you for your patience.**
 
 <!--
