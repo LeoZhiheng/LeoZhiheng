@@ -10,7 +10,7 @@
 
 **Representative works:**
 
-1. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2023. 
+1. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2023. [[Paper](https://ieeexplore.ieee.org/document/10417722)]
 
 2. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)]
 
