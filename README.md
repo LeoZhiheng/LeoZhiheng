@@ -22,7 +22,7 @@
 
 5. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024.
    
-6. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023.
+6. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
 
 7. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. 
 
