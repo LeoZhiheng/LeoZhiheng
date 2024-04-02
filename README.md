@@ -24,7 +24,7 @@
    
 6. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
 
-7. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)]
+7. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
 
 **Video:**
 The demo of the above works can be found on my [Bilibili Account (被鲸鱼吃的fish)](https://space.bilibili.com/362738095?spm_id_from=333.999.0.0).
