@@ -18,7 +18,7 @@
 
 **Other works:**
 
-4. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024. [[Paper](https://arxiv.org/abs/2402.16249)]
+4. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)]
 
 5. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
    
