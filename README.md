@@ -10,11 +10,13 @@
 
 **Representative works:**
 
-1. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Vedio](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
+1. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-view Encoding and Long/Short-Term Memory. IEEE International Conference on Intelligent Robots and Systems (IROS) (under review), 2024. [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
+   
+2. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Vedio](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
-2. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Vedio](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
+3. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Vedio](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
-3. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Vedio](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
+4. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Vedio](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
 
 **Other works:**
 
