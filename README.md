@@ -7,7 +7,7 @@
 🤔 Focus on Robot and Deep Learning. Still exploring...    
 😄 Like robots and programming  
 ✨ I’m currently learning everything  
-**:) Hope do real, not just paper**
+**:) Hope do real, not just paper ！**
 
 **Representative works:**
 
