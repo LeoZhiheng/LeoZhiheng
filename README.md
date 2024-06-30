@@ -23,9 +23,9 @@
 
 5. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
 
-6. Shuo Li, Yubo Cui, **Zhiheng Li**, Zheng Fang*. FlowTrack: Point-level Flow Network for 3D Single Object Tracking. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
+6. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
 
-7. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
+7. Shuo Li, Yubo Cui, **Zhiheng Li**, Zheng Fang*. FlowTrack: Point-level Flow Network for 3D Single Object Tracking. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
    
 8. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
 
