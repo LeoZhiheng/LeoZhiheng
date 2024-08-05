@@ -8,6 +8,7 @@
 😄 Like robots and programming  
 ✨ I’m currently learning everything  
 **:) Hope do real, not just paper！**
+**Looking forward to communicating with everyone (My WeChat: lizhiheng469911)**
 
 **Representative works:**
 
