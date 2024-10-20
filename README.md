@@ -11,10 +11,8 @@
 **:) Hope do real, not just paper!**
 **Looking forward to communicating with everyone!** (My WeChat: lizhiheng469911)
 
-**My topic**
-
+**My subject:**
 Semantic Perception: 3D detection, tracking and segmentation
-
 Geometric Perception: Odometry...
 
 **Representative works:**
