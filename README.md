@@ -12,7 +12,7 @@
 **Looking forward to communicating with everyone!** (My WeChat: lizhiheng469911)
 
 **My subject:**      
-Semantic Perception: 3D detection, tracking and segmentation          
+Semantic Perception: 3D Detection, Tracking and Segmentation          
 Geometric Perception: Odometry and Mapping
 
 **Representative works:**
