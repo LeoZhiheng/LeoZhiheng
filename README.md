@@ -11,6 +11,12 @@
 **:) Hope do real, not just paper!**
 **Looking forward to communicating with everyone!** (My WeChat: lizhiheng469911)
 
+**My topic**
+
+Semantic Perception: 3D detection, tracking and segmentation
+
+Geometric Perception: Odometry...
+
 **Representative works:**
 
 1. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. (under review) [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
