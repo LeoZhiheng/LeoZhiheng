@@ -17,7 +17,7 @@ Geometric Perception: Odometry and Mapping
 
 **Representative works:**
 
-1. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. (Accepted) [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
+1. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
    
 2. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Vedio](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
