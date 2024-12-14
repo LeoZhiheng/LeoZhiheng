@@ -27,17 +27,19 @@ Geometric Perception: Odometry and Mapping
 
 **Other works:**
 
-5. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
+5. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. AAAI 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
 
-6. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
+6. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
 
-7. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
+7. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
 
-8. Shuo Li, Yubo Cui, **Zhiheng Li**, Zheng Fang*. FlowTrack: Point-level Flow Network for 3D Single Object Tracking. IEEE International Conference on Intelligent Robots and Systems (IROS), 2024. [[Paper](https://arxiv.org/abs/2407.01959v1)]
+8. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
+
+9. Shuo Li, Yubo Cui, **Zhiheng Li**, Zheng Fang*. FlowTrack: Point-level Flow Network for 3D Single Object Tracking. IEEE International Conference on Intelligent Robots and Systems (IROS), 2024. [[Paper](https://arxiv.org/abs/2407.01959v1)]
    
-9. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
+10. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
 
-10. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
+11. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
 
 **Video:**
 The demo of the above works can be found on my [Bilibili Account (被鲸鱼吃的fish)](https://space.bilibili.com/362738095?spm_id_from=333.999.0.0).
