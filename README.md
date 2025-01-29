@@ -13,10 +13,10 @@
 
 **My subject:**      
 Semantic Perception: 3D Detection, Tracking and Segmentation          
-Geometric Perception: Odometry and Mapping            
+Geometric Perception: Odometry and Mapping         
+
 <details>
   <summary>Representative works:</summary>
-
 1. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
    
 2. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Vedio](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
@@ -24,12 +24,10 @@ Geometric Perception: Odometry and Mapping
 3. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Vedio](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
 4. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Vedio](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
-
 </details>
 
 <details>
   <summary>Other works:</summary>
-
 5. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. Association for the Advancement of Artificial Intelligence (AAAI), 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
 
 6. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
@@ -43,12 +41,10 @@ Geometric Perception: Odometry and Mapping
 10. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
 
 11. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
-
 </details>
 
 **Video:**
 The demo of the above works can be found on my [Bilibili Account (被鲸鱼吃的fish)](https://space.bilibili.com/362738095?spm_id_from=333.999.0.0).
-
 
 <!--
 **LeoZhiheng/LeoZhiheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
