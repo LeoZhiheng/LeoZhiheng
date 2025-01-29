@@ -13,8 +13,7 @@
 
 **My subject:**      
 Semantic Perception: 3D Detection, Tracking and Segmentation          
-Geometric Perception: Odometry and Mapping
-
+Geometric Perception: Odometry and Mapping            
 <details>
   <summary>Representative works:</summary>
 
