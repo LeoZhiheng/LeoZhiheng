@@ -16,7 +16,7 @@ Semantic Perception: 3D Detection, Tracking and Segmentation
 Geometric Perception: Odometry and Mapping         
 
 <details>
-  <summary>Representative works:</summary>       
+  <summary><strong>Representative works:</strong></summary>       
   
 1. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
    
@@ -28,7 +28,7 @@ Geometric Perception: Odometry and Mapping
 </details>
 
 <details>
-  <summary>Other works:</summary>          
+  <summary><strong>Other works:</strong></summary>          
   
 5. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. Association for the Advancement of Artificial Intelligence (AAAI), 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
 
