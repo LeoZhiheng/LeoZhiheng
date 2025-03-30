@@ -21,7 +21,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting
 
 1. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)]
 
-2. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
+2. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)] [[Code](https://github.com/NEU-REAL/StreamMOS)]
    
 3. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Vedio](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
