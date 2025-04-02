@@ -55,8 +55,6 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting
 **Video:**
 The demo of the above works can be found on my [Bilibili Account (被鲸鱼吃的fish)](https://space.bilibili.com/362738095?spm_id_from=333.999.0.0).
 
-**Tip:** All unpublished code is expected to be launched before April 1st 2025~
-
 <!--
 **LeoZhiheng/LeoZhiheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
