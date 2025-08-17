@@ -37,7 +37,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet)
    
 7. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025.
 
-8. Yubo Cui, Zhikang Zhou, Xiaoqing Ye, Xiao Tan, **Zhiheng Li**, Zheng Fang*. Coupling and Decoupling: Towards Temporal Feedback for 3D Object Detection. IEEE Transactions on Multimedia (TMM), 2025.
+8. Yubo Cui, Zhikang Zhou, Xiaoqing Ye, Xiao Tan, **Zhiheng Li**, Zheng Fang*. Coupling and Decoupling: Towards Temporal Feedback for 3D Object Detection. IEEE Transactions on Multimedia (TMM), 2025. [[Paper](https://ieeexplore.ieee.org/document/11124562)]
 
 9. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. Association for the Advancement of Artificial Intelligence (AAAI), 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
 
