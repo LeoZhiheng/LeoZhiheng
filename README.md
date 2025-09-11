@@ -37,7 +37,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet)
 
 7. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025.
    
-8. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Vedio](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
+8. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://ieeexplore.ieee.org/document/11127467)] [[Vedio](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
 
 9. Yubo Cui, Zhikang Zhou, Xiaoqing Ye, Xiao Tan, **Zhiheng Li**, Zheng Fang*. Coupling and Decoupling: Towards Temporal Feedback for 3D Object Detection. IEEE Transactions on Multimedia (TMM), 2025. [[Paper](https://ieeexplore.ieee.org/document/11124562)]
 
