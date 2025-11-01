@@ -43,7 +43,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet)
 
 10. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. Association for the Advancement of Artificial Intelligence (AAAI), 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
 
-11. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024, **#1 on the SemanticKITTI MOS leaderboard**. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
+11. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024, **#1 and #2 on the SemanticKITTI MOS & Multi-scan Segmentation leaderboards**. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
 
 12. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
 
