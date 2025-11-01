@@ -33,7 +33,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet)
 <details>
   <summary><strong>Other works:</strong></summary>          
 
-6. Yubo Cui, **Zhiheng Li**, Zheng Fang*. Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection. Pattern Recognition (PR), 2025.
+6. Yubo Cui, **Zhiheng Li**, Zheng Fang*. Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection. Pattern Recognition (PR), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325011069)]
 
 7. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025.
    
