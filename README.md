@@ -33,7 +33,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet)
 <details>
   <summary><strong>Other works:</strong></summary>          
 
-6. Weihua Wang, Yubo Cui, Xiangru Lin, **Zhiheng Li**, Zheng Fang*. Towards 3D Object-Centric Feature Learning for Semantic Scene Completion. Association for the Advancement of Artificial Intelligence (AAAI), 2026.
+6. Weihua Wang, Yubo Cui, Xiangru Lin, **Zhiheng Li**, Zheng Fang*. Towards 3D Object-Centric Feature Learning for Semantic Scene Completion. Association for the Advancement of Artificial Intelligence (AAAI), 2026. [[Paper](https://arxiv.org/abs/2511.13031)]
 
 7. Yubo Cui, **Zhiheng Li**, Zheng Fang*. Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection. Pattern Recognition (PR), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325011069)]
 
