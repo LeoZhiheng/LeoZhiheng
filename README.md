@@ -1,6 +1,6 @@
 ### Hi 👋 I am Zhiheng Li
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeoZhiheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LeoZhiheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  -->
 
 ---
 🌱 I am a second-year PhD Student at the Faculty of Robot Science and Engineering, Northeastern University (NEU), supervised by Prof. [Zheng Fang](http://faculty.neu.edu.cn/fangzheng/zh_CN/index/55328/list/index.htm)        
@@ -37,7 +37,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting
 
 7. Yubo Cui, **Zhiheng Li**, Zheng Fang*. Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection. Pattern Recognition (PR), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325011069)]
 
-8. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025.
+8. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025. [[Paper](https://ieeexplore.ieee.org/document/11246274)]
    
 9. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://ieeexplore.ieee.org/document/11127467)] [[Vedio](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
 
