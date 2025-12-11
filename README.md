@@ -21,15 +21,15 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting
 
 1. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. Under review. [[Paper](https://arxiv.org/abs/2512.09608)]
 
-2. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)] [[Vedio](https://www.bilibili.com/video/BV1QjmKBQETE/?spm_id_from=333.1387.homepage.video_card.click)]
+2. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)] [[Video](https://www.bilibili.com/video/BV1QjmKBQETE/?spm_id_from=333.1387.homepage.video_card.click)]
 
-3. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Code](https://github.com/NEU-REAL/StreamMOS)] [[Vedio](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
+3. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Code](https://github.com/NEU-REAL/StreamMOS)] [[Video](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
    
-4. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Vedio](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
+4. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Video](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
-5. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Vedio](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
+5. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Video](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
-6. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Vedio](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
+6. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Video](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
 </details>
 
 <details>
@@ -41,7 +41,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting
 
 9. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025. [[Paper](https://ieeexplore.ieee.org/document/11246274)]
    
-10. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://ieeexplore.ieee.org/document/11127467)] [[Vedio](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
+10. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://ieeexplore.ieee.org/document/11127467)] [[Video](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
 
 11. Yubo Cui, Zhikang Zhou, Xiaoqing Ye, Xiao Tan, **Zhiheng Li**, Zheng Fang*. Coupling and Decoupling: Towards Temporal Feedback for 3D Object Detection. IEEE Transactions on Multimedia (TMM), 2025. [[Paper](https://ieeexplore.ieee.org/document/11124562)]
 
