@@ -19,7 +19,7 @@ Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting
 <details>
   <summary><strong>Representative works:</strong></summary>       
 
-1. **Zhiheng Li**, Zhiheng Li, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. Under review. [[Paper](https://arxiv.org/abs/2512.09608)]
+1. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. Under review. [[Paper](https://arxiv.org/abs/2512.09608)]
 
 2. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)]
 
