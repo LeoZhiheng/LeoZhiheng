@@ -13,7 +13,7 @@
 (My WeChat: lizhiheng469911, My Email: leozhiheng@163.com)
 
 **My subject:**      
-Semantic Perception: **3D Detection** (MMInsectDet), **Tracking** (MTM-Track & MMF-Track) and **Segmentation** (StreamMOS)          
+Semantic Perception: **3D Detection** (MMInsectDet), **Tracking** (MTM-Track & MMF-Track), **Segmentation** (StreamMOS), **Occ**          
 Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting** (Super4DR)    
 
 <details>
