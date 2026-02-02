@@ -36,7 +36,7 @@ End-to-end Navigation...
 <details>
   <summary><strong>Other works:</strong></summary>          
 
-7. Ningyuan Huang*, **Zhiheng Li***, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026.
+7. Ningyuan Huang†, **Zhiheng Li†**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
 8. Weihua Wang, Yubo Cui, Xiangru Lin, **Zhiheng Li**, Zheng Fang*. Towards 3D Object-Centric Feature Learning for Semantic Scene Completion. Association for the Advancement of Artificial Intelligence (AAAI), 2026. [[Paper](https://arxiv.org/abs/2511.13031)]
 
