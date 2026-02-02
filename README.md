@@ -36,29 +36,31 @@ End-to-end Navigation...
 <details>
   <summary><strong>Other works:</strong></summary>          
 
-7. Weihua Wang, Yubo Cui, Xiangru Lin, **Zhiheng Li**, Zheng Fang*. Towards 3D Object-Centric Feature Learning for Semantic Scene Completion. Association for the Advancement of Artificial Intelligence (AAAI), 2026. [[Paper](https://arxiv.org/abs/2511.13031)]
+7. Ningyuan Huang, **Zhiheng Li**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
-8. Yubo Cui, **Zhiheng Li**, Zheng Fang*. Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection. Pattern Recognition (PR), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325011069)]
+8. Weihua Wang, Yubo Cui, Xiangru Lin, **Zhiheng Li**, Zheng Fang*. Towards 3D Object-Centric Feature Learning for Semantic Scene Completion. Association for the Advancement of Artificial Intelligence (AAAI), 2026. [[Paper](https://arxiv.org/abs/2511.13031)]
 
-9. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025. [[Paper](https://ieeexplore.ieee.org/document/11246274)]
+9. Yubo Cui, **Zhiheng Li**, Zheng Fang*. Dynamic Clustering Transformer for LiDAR-Based 3D Object Detection. Pattern Recognition (PR), 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325011069)]
+
+10. Ningyuan Huang, **Zhiheng Li**, Chenglin Pang, Zheng Fang*. RDN: An Efficient Denoising Network for 4D Radar Point Clouds. IEEE International Conference on Intelligent Robots and Systems (IROS), 2025. [[Paper](https://ieeexplore.ieee.org/document/11246274)]
    
-10. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://ieeexplore.ieee.org/document/11127467)] [[Video](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
+11. Pu Xu, Haoming Liu, **Zhiheng Li**, Zhaoqiang Bai, Zheng Fang*. Target-aware Viewpoint Generation for Active Robotic Exploration in Unknown Environments. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://ieeexplore.ieee.org/document/11127467)] [[Video](https://www.youtube.com/watch?v=HVeOqqLKPhI)]
 
-11. Yubo Cui, Zhikang Zhou, Xiaoqing Ye, Xiao Tan, **Zhiheng Li**, Zheng Fang*. Coupling and Decoupling: Towards Temporal Feedback for 3D Object Detection. IEEE Transactions on Multimedia (TMM), 2025. [[Paper](https://ieeexplore.ieee.org/document/11124562)]
+12. Yubo Cui, Zhikang Zhou, Xiaoqing Ye, Xiao Tan, **Zhiheng Li**, Zheng Fang*. Coupling and Decoupling: Towards Temporal Feedback for 3D Object Detection. IEEE Transactions on Multimedia (TMM), 2025. [[Paper](https://ieeexplore.ieee.org/document/11124562)]
 
-12. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. Association for the Advancement of Artificial Intelligence (AAAI), 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
+13. Yubo Cui, **Zhiheng Li**, Jiaqiang Wang, Zheng Fang*. LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba. Association for the Advancement of Artificial Intelligence (AAAI), 2025. [[Paper](https://arxiv.org/abs/2412.08388)]
 
-13. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024, **#1 and #2 on the SemanticKITTI MOS & Multi-scan Segmentation leaderboards**. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
+14. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024, **#1 and #2 on the SemanticKITTI MOS & Multi-scan Segmentation leaderboards**. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
 
-14. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
+15. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
 
-15. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
+16. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
 
-16. Shuo Li, Yubo Cui, **Zhiheng Li**, Zheng Fang*. FlowTrack: Point-level Flow Network for 3D Single Object Tracking. IEEE International Conference on Intelligent Robots and Systems (IROS), 2024. [[Paper](https://arxiv.org/abs/2407.01959v1)]
+17. Shuo Li, Yubo Cui, **Zhiheng Li**, Zheng Fang*. FlowTrack: Point-level Flow Network for 3D Single Object Tracking. IEEE International Conference on Intelligent Robots and Systems (IROS), 2024. [[Paper](https://arxiv.org/abs/2407.01959v1)]
    
-17. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
+18. Yubo Cui, **Zhiheng Li**, Zheng Fang*. STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2306.17440)]
 
-18. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
+19. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
 </details>
 
 **Video:**
