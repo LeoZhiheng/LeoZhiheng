@@ -14,7 +14,7 @@
 
 **My subject:**      
 Semantic Perception: **3D Detection** (MMInsectDet), **Tracking** (MTM-Track & MMF-Track), **Segmentation** (StreamMOS), **Occ**...          
-Geometric Perception: **Odometry and Mapping** (CAO-RONet), **Gaussian Splatting** (Super4DR), **Feed-Forward Reconstruction** (TEPR)  
+Geometric Perception: **Odometry & Mapping** (CAO-RONet), **Gaussian Splatting** (Super4DR), **Feed-Forward Reconstruction** (TEPR)  
 Vision-Language Navigation...
 
 <details>
