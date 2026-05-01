@@ -65,7 +65,7 @@ Vision-Language Navigation...
 
 <details>
   <summary><strong>Reviewer:</strong></summary>      
-                                                                                           
+
 IEEE/RSJ International Conference on Intelligent Robots and Systems (2025 / 2026)
 
 IEEE International Conference on Robotics and Automation (2025 / 2026)
