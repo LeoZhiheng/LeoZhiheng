@@ -63,7 +63,21 @@ Vision-Language Navigation...
 19. Yubo Cui, Jiayao Shan, Zuoxu Gu, **Zhiheng Li**, Zheng Fang*. Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2022. [[Paper](https://arxiv.org/abs/2210.00519)] [[Code](https://github.com/3bobo/smat)]
 </details>
 
-**Reviewer:** 2025/2026 IROS, 2025/2026 ICRA, RA-L, TIV, KBS, PR...
+<details>
+  <summary><strong>Reviewer:</strong></summary>      
+  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (2025 / 2026)
+
+IEEE International Conference on Robotics and Automation (2025 / 2026)
+
+IEEE Robotics and Automation Letters
+
+IEEE Transactions on Intelligent Vehicles
+
+Knowledge-Based Systems
+
+Pattern Recognition
+</details>
 
 **Video:**
 The demo of the above works can be found on my [Bilibili Account (被鲸鱼吃的fish)](https://space.bilibili.com/362738095?spm_id_from=333.999.0.0).
