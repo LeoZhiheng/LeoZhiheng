@@ -76,7 +76,6 @@ IEEE Transactions on Intelligent Vehicles
 Knowledge-Based Systems  
 
 Pattern Recognition  
-
 </details>
 
 **Video:**
