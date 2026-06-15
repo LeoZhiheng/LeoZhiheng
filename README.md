@@ -22,21 +22,21 @@ Vision-Language Navigation...
 
 1. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. (Under review). [[Paper](https://arxiv.org/abs/2512.09608)]
 
-2. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)] [[Video](https://www.bilibili.com/video/BV1QjmKBQETE/?spm_id_from=333.1387.homepage.video_card.click)]
+2. Ningyuan Huang†, **Zhiheng Li†**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026. [[Paper](https://arxiv.org/pdf/2603.26206)]
 
-3. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Code](https://github.com/NEU-REAL/StreamMOS)] [[Video](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
+3. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)] [[Video](https://www.bilibili.com/video/BV1QjmKBQETE/?spm_id_from=333.1387.homepage.video_card.click)]
+
+4. **Zhiheng Li**, Yubo Cui, Jiexi Zhong, Zheng Fang*. StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory. IEEE Robotics and Automation Letters (RA-L), 2024. [[Paper](https://arxiv.org/abs/2407.17905)] [[Code](https://github.com/NEU-REAL/StreamMOS)] [[Video](https://www.bilibili.com/video/BV1Wy421B77X/?spm_id_from=333.999.0.0)]
    
-4. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Video](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
+5. **Zhiheng Li**, Yubo Cui, Zheng Fang*. Intersection is also needed: A Novel LiDAR-based Intersection Dataset and Detection Method. IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Paper](https://ieeexplore.ieee.org/document/10417722)] [[Video](https://www.bilibili.com/video/BV1LX4y1s7E6/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
-5. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Video](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
+6. **Zhiheng Li**, Yubo Cui, Yu Lin, and Zheng Fang*. MMF-Track: Multi-modal Multi-level Fusion for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2023. [[Paper](https://arxiv.org/abs/2305.06794)] [[Video](https://www.bilibili.com/video/BV14m4y1e7CP/?spm_id_from=333.999.0.0&vd_source=fa42d88ec19eff6dbea9dd604c15f925)]
 
-6. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Video](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
+7. **Zhiheng Li**, Yu Lin, Yubo Cui, Shuo Li, Zheng Fang*. Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking. IEEE Robotics and Automation Letters (RA-L), 2023. [[Paper](https://arxiv.org/abs/2308.11875v1?utm_source=tldrai)] [[Code](https://github.com/LeoZhiheng/MTM-Tracker/tree/main)] [[Video](https://www.bilibili.com/video/BV1KX4y1j76B/?spm_id_from=333.999.0.0)]
 </details>
 
 <details>
   <summary><strong>Other works:</strong></summary>          
-
-7. Ningyuan Huang†, **Zhiheng Li†**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026. [[Paper](https://arxiv.org/pdf/2603.26206)]
 
 8. Weihua Wang, Yubo Cui, Xiangru Lin, **Zhiheng Li**, Zheng Fang*. Towards 3D Object-Centric Feature Learning for Semantic Scene Completion. Association for the Advancement of Artificial Intelligence (AAAI), 2026. [[Paper](https://arxiv.org/abs/2511.13031)]
 
