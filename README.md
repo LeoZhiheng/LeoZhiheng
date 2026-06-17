@@ -72,6 +72,7 @@ IEEE Robotics and Automation Letters
 IEEE Transactions on Intelligent Vehicles  
 Knowledge-Based Systems  
 Pattern Recognition  
+Neural Networks     
 </details>
 
 **Video:**
