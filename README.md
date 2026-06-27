@@ -92,3 +92,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- PINNED-STAR:START -->
+⭐ Pinned repositories stars: **110**
+<!-- PINNED-STAR:END -->
+
