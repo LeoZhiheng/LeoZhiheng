@@ -10,7 +10,7 @@
 
 **:) Hope do real, not just paper!**
 **Looking forward to communicating with everyone!**          
-(My WeChat: lizhiheng469911, My Email: leozhiheng@163.com)
+(My WeChat: superleozh, My Email: leozhiheng@163.com)
 
 **My subject:**      
 Semantic Perception: **3D Detection** (MMInsectDet), **Tracking** (MTM-Track & MMF-Track), **Segmentation** (StreamMOS), **Occ**...          
