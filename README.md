@@ -52,7 +52,7 @@ Vision-Language Navigation...
 
 14. Jiexi Zhong, **Zhiheng Li**, Yubo Cui, Zheng Fang*. 4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation. IEEE Robotics and Automation Letters (RA-L), 2024, **#1 and #2 on the SemanticKITTI MOS & Multi-scan Segmentation leaderboards**. [[Paper](https://ieeexplore.ieee.org/document/10777056)]
 
-15. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, **Best Paper Finalist**. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
+15. Yu Lin, **Zhiheng Li**, Yubo Cui, Zheng Fang*. SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking. IEEE International Conference on Robotics and Automation (ICRA), 2024, <span style="color:#DAA520;">**Best Paper Finalist**</span>. [[Paper](https://arxiv.org/abs/2402.16249)] [[Code](https://github.com/NEU-REAL/SeqTrack3d.git)]
 
 16. Yubo Cui, Zheng Fang*, **Zhiheng Li**, Shuo Li, Yu Lin. HyGFNet: Hybrid Geometry-Flow Learning Network for 3D Single Object Tracking. IEEE Transactions on Intelligent Vehicles (TIV), 2024. [[Paper](https://ieeexplore.ieee.org/document/10440506)]
 
