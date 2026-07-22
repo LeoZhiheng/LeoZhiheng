@@ -20,7 +20,7 @@ Vision-Language Navigation...
 <details>
   <summary><strong>Representative works:</strong></summary>       
 
-1. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. IEEE Transactions on Robotics (T-RO Accepted), 2026. [[Paper](https://arxiv.org/abs/2512.09608)]
+1. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. IEEE Transactions on Robotics (T-RO Accepted), 2026. [[Paper](https://ieeexplore.ieee.org/document/11613536)]
 
 2. Ningyuan Huang†, **Zhiheng Li†**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026. [[Paper](https://arxiv.org/pdf/2603.26206)]
 
