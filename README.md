@@ -22,7 +22,7 @@ Vision-Language Navigation...
 
 1. **Zhiheng Li**, Zuntao Liu, Weihua Wang, Zheng Fang*. TEPR: Thermal Edge-Prompted Geometry Learning for Multi-View 3D Reconstruction. International Journal of Computer Vision (IJCV), 2026. [[Paper](https://link.springer.com/article/10.1007/s11263-026-02997-8)]
    
-2. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. IEEE Transactions on Robotics (T-RO Accepted), 2026. [[Paper](https://ieeexplore.ieee.org/document/11613536)]
+2. **Zhiheng Li**, Weihua Wang, Qiang Shen, Yichen Zhao, Zheng Fang*. Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization. IEEE Transactions on Robotics (T-RO), 2026. [[Paper](https://ieeexplore.ieee.org/document/11613536)]
 
 3. Ningyuan Huang†, **Zhiheng Li†**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026. [[Paper](https://arxiv.org/pdf/2603.26206)]
 
