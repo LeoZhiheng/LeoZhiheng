@@ -26,7 +26,7 @@ Vision-Language Navigation...
 
 3. Ningyuan Huang†, **Zhiheng Li†**, Zheng Fang*. 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation. IEEE International Conference on Robotics and Automation (ICRA), 2026. [[Paper](https://arxiv.org/pdf/2603.26206)]
 
-4. Yichen Zhao†, **Zhiheng Li†**, Weihua Wang, Qiang Shen, Zheng Fang*. TriRaLDM: Triplane Latent Diffusion Model for 4D Radar Map Enhancement. IEEE Robotics and Automation Letters (RA-L), 2026. [[Paper](https://ieeexplore.ieee.org/document/11789728)][[Website](https://triraldm.github.io/)]
+4. Yichen Zhao†, **Zhiheng Li†**, Weihua Wang, Qiang Shen, Zheng Fang*. TriRaLDM: Triplane Latent Diffusion Model for 4D Radar Map Enhancement. IEEE Robotics and Automation Letters (RA-L), 2026. [[Paper](https://ieeexplore.ieee.org/document/11789728)] [[Website](https://triraldm.github.io/)]
 
 5. **Zhiheng Li**, Yubo Cui, Ningyuan Huang, Chenglin Pang, Zheng Fang*. CAO-RONet: A Robust 4D Radar Odometry with Exploring More Information from Low-Quality Points. IEEE International Conference on Robotics and Automation (ICRA), 2025. [[Paper](https://arxiv.org/abs/2503.01438)] [[Code](https://github.com/NEU-REAL/CAO-RONet)] [[Video](https://www.bilibili.com/video/BV1QjmKBQETE/?spm_id_from=333.1387.homepage.video_card.click)]
 
